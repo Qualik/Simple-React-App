@@ -13,4 +13,4 @@ This shows the fundamentals of React:
 - State
 - Props
 - Submitting form data
-- JSX 
+- JSX
