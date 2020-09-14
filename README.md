@@ -1,6 +1,8 @@
 # A Simple React App
 
-A React App 'Name & Job' title App that allows you to:
+Link to App - https://qualik.github.io/Simple-React-App
+
+A React 'Name & Job' title App that allows you to:
 
 - Add name
 - Add job
