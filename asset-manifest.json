@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Qualik/Simple-React-App/static/css/main.04303cbb.chunk.css",
+    "main.js": "/Qualik/Simple-React-App/static/js/main.c082e727.chunk.js",
+    "main.js.map": "/Qualik/Simple-React-App/static/js/main.c082e727.chunk.js.map",
+    "runtime-main.js": "/Qualik/Simple-React-App/static/js/runtime-main.432d8603.js",
+    "runtime-main.js.map": "/Qualik/Simple-React-App/static/js/runtime-main.432d8603.js.map",
+    "static/js/2.67691ccd.chunk.js": "/Qualik/Simple-React-App/static/js/2.67691ccd.chunk.js",
+    "static/js/2.67691ccd.chunk.js.map": "/Qualik/Simple-React-App/static/js/2.67691ccd.chunk.js.map",
+    "index.html": "/Qualik/Simple-React-App/index.html",
+    "precache-manifest.1911f6fa9ff3e7d381baf7300acfcce2.js": "/Qualik/Simple-React-App/precache-manifest.1911f6fa9ff3e7d381baf7300acfcce2.js",
+    "service-worker.js": "/Qualik/Simple-React-App/service-worker.js",
+    "static/css/main.04303cbb.chunk.css.map": "/Qualik/Simple-React-App/static/css/main.04303cbb.chunk.css.map",
+    "static/js/2.67691ccd.chunk.js.LICENSE.txt": "/Qualik/Simple-React-App/static/js/2.67691ccd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.432d8603.js",
+    "static/js/2.67691ccd.chunk.js",
+    "static/css/main.04303cbb.chunk.css",
+    "static/js/main.c082e727.chunk.js"
+  ]
+}
