@@ -6,6 +6,8 @@ A React App 'Name & Job' title App that allows you to:
 - Add job
 - Submit name
 - Submit job
+- Delete name
+- Delete job
 
 This shows the fundamentals of React:
 
