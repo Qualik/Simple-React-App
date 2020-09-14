@@ -13,7 +13,7 @@ A React 'Name & Job' title App that allows you to:
 
 This shows the fundamentals of React:
 
-- Simple / Custom Class Componenets
+- Simple / Custom Class Components
 - State
 - Props
 - Submitting form data
